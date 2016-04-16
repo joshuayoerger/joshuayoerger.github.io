@@ -50,6 +50,7 @@ coverage.xml
 *.pot
 
 # Pelican output folder
+output
 output/
 
 # Django stuff:
