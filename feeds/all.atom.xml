@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Joshua Yoerger</title><link href="http://joshuayoerger.github.io/" rel="alternate"></link><link href="http://joshuayoerger.github.io/feeds/all.atom.xml" rel="self"></link><id>http://joshuayoerger.github.io/</id><updated>2015-04-15T20:20:00-07:00</updated><entry><title>Hello World</title><link href="http://joshuayoerger.github.io/hello-world.html" rel="alternate"></link><published>2015-04-15T20:20:00-07:00</published><author><name>Joshua Yoerger</name></author><id>tag:joshuayoerger.github.io,2015-04-15:hello-world.html</id><summary type="html">&lt;p&gt;This is that obligatory first post wherein I offer the world at large my heartfelt salutations. As I made this blog with pelican, I feel doing this with Python would be appropriate.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# hello.py&lt;/span&gt;
+
+
+&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;greetings&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Hello World!&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Loading our script in the Python REPL:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ python
+Python 3.5.1 &lt;span class="p"&gt;|&lt;/span&gt;Anaconda 2.5.0 &lt;span class="o"&gt;(&lt;/span&gt;x86_64&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;default, Dec  &lt;span class="m"&gt;7&lt;/span&gt; 2015, 11:24:55&lt;span class="o"&gt;)&lt;/span&gt;
+&lt;span class="o"&gt;[&lt;/span&gt;GCC 4.2.1 &lt;span class="o"&gt;(&lt;/span&gt;Apple Inc. build 5577&lt;span class="o"&gt;)]&lt;/span&gt; on darwin
+Type &lt;span class="s2"&gt;&amp;quot;help&amp;quot;&lt;/span&gt;, &lt;span class="s2"&gt;&amp;quot;copyright&amp;quot;&lt;/span&gt;, &lt;span class="s2"&gt;&amp;quot;credits&amp;quot;&lt;/span&gt; or &lt;span class="s2"&gt;&amp;quot;license&amp;quot;&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; more information.
+&amp;gt;&amp;gt;&amp;gt; from hello.py import greetings
+&amp;gt;&amp;gt;&amp;gt; greetings&lt;span class="o"&gt;()&lt;/span&gt;
+Hello World!
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Well, there you have it folks. Thanks for reading!&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
