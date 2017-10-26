@@ -3,11 +3,13 @@ import g from 'glamorous';
 import { css } from 'glamor';
 import Link from 'gatsby-link';
 
+import Footer from '../components/footer';
+
 import { rhythm } from '../utils/typography';
 
 const linkStyle = css({ float: `right` });
 
-export default ({ children }) => (
+export default ({ children, data }) => (
   <g.Div
     margin="0 auto"
     maxWidth={700}
@@ -15,20 +17,36 @@ export default ({ children }) => (
     paddingTop={rhythm(1.5)}
   >
     <Link to="/">
-      <g.H3
-        marginBottom={rhythm(2)}
-        display="inline-block"
-        fontStyle="normal"
-      >
-        My Home Sweet Home Page
+      <g.H3 marginBottom={rhythm(2)} display="inline-block" fontStyle="normal">
+        {data.site.siteMetadata.title}
       </g.H3>
     </Link>
+    <Link className={linkStyle} to="/work/">
+      / Work
+    </Link>
+    <Link className={linkStyle} to="/contact/">
+      / Contact /
+    </Link>
+    <Link className={linkStyle} to="/blog/">
+      / Blog /
+    </Link>
     <Link className={linkStyle} to="/about/">
-      About
+      About /
     </Link>
     {children()}
+    <Footer />
   </g.Div>
 );
+
+export const query = graphql`
+  query LayoutQuery {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+  }
+`;
 
 // const TemplateWrapper = ({ children }) => (
 //   <div>
