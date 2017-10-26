@@ -1,0 +1,2 @@
+webpackJsonp([0x83323ebd9d39],{241:function(e,t,n){(function(a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var o=n(5),u=(l(o),function(){return a.createElement("div",null,a.createElement("h1",null,"Hallo!"),a.createElement("p",null,"My name is Joshua Yoerger. It is great to meet you! I like maths, games, and music (among other things). I want to get paid to write code all day."))});t.default=u,e.exports=t.default}).call(t,n(13))}});
+//# sourceMappingURL=component---src-pages-about-jsx-0c699bd33774fc066d87.js.map

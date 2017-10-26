@@ -1,0 +1,2 @@
+webpackJsonp([0xf323efb41364],{245:function(e,t,n){(function(l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var c=n(5),r=(u(c),function(){return l.createElement("div",null,l.createElement("h1",null,"My Work"),l.createElement("p",null,"Please checkout my projects below."),l.createElement("p",null,"(under construction)"))});t.default=r,e.exports=t.default}).call(t,n(13))}});
+//# sourceMappingURL=component---src-pages-work-jsx-8def1f1501d35f85c977.js.map
