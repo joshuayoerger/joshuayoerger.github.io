@@ -1,0 +1,2 @@
+webpackJsonp([0xc23565d713b7],{240:function(e,t,l){(function(n){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var o=l(5),r=(u(o),function(){return n.createElement("div",null,n.createElement("h1",null,"Hello Folks!"),n.createElement("p",null,"Welcome to my site."),n.createElement("p",null,"I am very excited to build something truly great. Gotta start somewhere."))});t.default=r,e.exports=t.default}).call(t,l(27))}});
+//# sourceMappingURL=component---src-pages-index-jsx-0778118d54c3cc3689d4.js.map
