@@ -1,7 +1,7 @@
 {
   "parser": "babel-eslint",
   "extends": ["airbnb", "prettier"],
-  "plugins": ["react", "jsx-a11y", "import"],
+  "plugins": ["react", "jsx-a11y", "import", "css-js"],
   "rules": {
     "jsx-a11y/anchor-is-valid": [
       "error",
@@ -12,6 +12,12 @@
     ]
   },
   "settings": {
-    "import/core-modules": ["react", "prop-types", "react-helmet"]
+    "import/core-modules": [
+      "react",
+      "prop-types",
+      "react-helmet",
+      "glamor",
+      "typography"
+    ]
   }
 }
