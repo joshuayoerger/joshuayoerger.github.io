@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
-  "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "name": "joshuayoerger.github.com",
+  "description": "Personal portfolio page",
+  "version": "0.1",
+  "author": "Joshua Yoerger <joshua.yoerger@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.73",
     "gatsby-link": "^1.6.22",
