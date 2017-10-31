@@ -1,17 +1,15 @@
 # My GitHub User Page - Alpha Source
 [joshuayoerger.github.com](http://joshuayoerger.github.com)
 
-Created using Gatsby from the [default starter](https://github.com/gatsbyjs/gatsby-starter-default)
+Created using Gatsby from the [default starter](https://github.com/gatsbyjs/gatsby-starter-default).
 
 ## Notes
 
-[Gatsby 1.0](https://gatsbyjs.org) is a "blazing-fast static site generator for React."
-
-Gatsby uses neat things like [React](https://reactjs.org), [GraphQL](http://graphql.org), and [Relay](https://facebook.github.io/relay/) to help you generate performant Static [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) and have fun doing it.
+[Gatsby 1.0](https://gatsbyjs.org) is a "blazing-fast static site generator for React." It uses neat things like [React](https://reactjs.org), [GraphQL](http://graphql.org), and [Relay](https://facebook.github.io/relay/) to help you generate performant Static [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) and have fun doing it.
 
 Check out this great [blog post](https://www.gatsbyjs.org/blog/gatsby-v1/) if you would like to learn more.
 
-**Note: As the "alpha" in the title suggests, this is a work in progress. You can find my todo list below. Stay tuned!
+**Note**: As the "alpha" in the title suggests, this is a work in progress. You can find my todo list below. Stay tuned!
 
 ## To Do
 
