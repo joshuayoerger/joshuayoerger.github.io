@@ -16,16 +16,21 @@ Check out this great [blog post](https://www.gatsbyjs.org/blog/gatsby-v1/) if yo
 - [ ] Content
   - [ ] Contact form using [AWS Lambda](https://aws.amazon.com/lambda/) to send mail
   - [ ] List of projects on Work page
+  - [ ] Github commit activity graphic
   - [ ] Fill in About page
   - [ ] i18n
   - [ ] Right to left text
-  - [ ] Accessibility
+  - [ ] Accessibility / Aria
   - [ ] Responsive design
   - [ ] Build or integrate outside blog
   - [ ] Make better use of GraphQL to keep components and pages DRY
   - [ ] CV / Resume
   - [ ] Add a TOC to this README
 - [ ] Cosmetic
+  - [ ] Styled header component
+  - [ ] Styled Footer component
+  - [ ] Styled social media component
+  - [ ] Implement [React-Headroom](https://github.com/KyleAMathews/react-headroom)
   - [x] [Glamorous](https://glamorous.rocks)
   - [ ] Icon set
   - [ ] Color accents
