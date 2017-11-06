@@ -12,7 +12,6 @@
     "gatsby-plugin-react-next": "^1.0.4",
     "gatsby-plugin-typography": "^1.7.10",
     "glamorous": "^4.10.0",
-    "react-feather": "^1.0.7",
     "typography-theme-moraga": "^0.15.10"
   },
   "keywords": [
