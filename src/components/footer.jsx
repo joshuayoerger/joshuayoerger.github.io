@@ -1,10 +1,20 @@
 import React from 'react';
-import glamorous from 'glamorous';
+import g from 'glamorous';
+import GatsbyNegative from './icons/GatsbyNegative';
+
+const iconStyle = {
+  verticalAlign: 'middle',
+};
+
+const MyFooter = g.footer({
+  padding: '1rem',
+  textAlign: 'center',
+});
 
 const Footer = () => (
-  <glamorous.Footer textAlign="center">
-    Made with Love using GatsbyJS - GNU GPLv3
-  </glamorous.Footer>
+  <MyFooter>
+    Made with {'<3'} using <GatsbyNegative css={iconStyle} /> - GNU GPLv3
+  </MyFooter>
 );
 
 export default Footer;
