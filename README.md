@@ -1,4 +1,4 @@
-# My GitHub User Page
+# My GitHub Pages User Page
 [joshuayoerger.github.com](http://joshuayoerger.github.com)
 
 Created using Gatsby from the [default starter](https://github.com/gatsbyjs/gatsby-starter-default)
