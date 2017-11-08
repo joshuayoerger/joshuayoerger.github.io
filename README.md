@@ -28,6 +28,7 @@ Check out this great [blog post](https://www.gatsbyjs.org/blog/gatsby-v1/) if yo
   - [ ] Add a TOC to this README
 - [ ] Cosmetic
   - [ ] Styled header component
+  - [x] Sticky Footer
   - [ ] Styled Footer component
   - [ ] Styled social media component
   - [ ] Implement [React-Headroom](https://github.com/KyleAMathews/react-headroom)
