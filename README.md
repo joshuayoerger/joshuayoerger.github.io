@@ -1,5 +1,5 @@
 # My GitHub User Page - Alpha Source
-[joshuayoerger.github.com](http://joshuayoerger.github.com)
+### [joshuayoerger.github.com](http://joshuayoerger.github.com)
 
 Created using Gatsby from the [default starter](https://github.com/gatsbyjs/gatsby-starter-default).
 
@@ -14,7 +14,7 @@ Check out this great [blog post](https://www.gatsbyjs.org/blog/gatsby-v1/) if yo
 ## To Do
 
 - [ ] Content
-  - [ ] Contact form using [AWS Lambda](https://aws.amazon.com/lambda/) to send mail
+  - [ ] Contact form using [AWS Lambda](https://aws.amazon.com/lambda/) or [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) to send mail
   - [ ] List of projects on Work page
   - [ ] Github commit activity graphic
   - [ ] Fill in About page
@@ -46,7 +46,7 @@ Check out this great [blog post](https://www.gatsbyjs.org/blog/gatsby-v1/) if yo
   - [x] [Prettier](https://prettier.io)
   - [ ] [XO](https://github.com/sindresorhus/xo)?
   - [ ] React Next (v16)
-  - [ ] Add ~~proptypes~~ [flow types](https://flow.org)
+  - [ ] Add ~~proptypes~~ [flow types](https://flow.org) or [TypeScript](http://www.typescriptlang.org)
   - [ ] Create Gatsby starter
   - [ ] Enable TLS
   - [ ] Buy proper domain name
