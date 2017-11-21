@@ -1,0 +1,128 @@
+{
+  "nord_colors": [
+    {
+      "color": "nord0",
+      "group": "polarnight",
+      "description": "Base component color of 'Polar Night'.",
+      "use":
+        "Used for texts, backgrounds, carets and structuring characters like curly- and square brackets.",
+      "hex": "#2E3440"
+    },
+    {
+      "color": "nord1",
+      "group": "polarnight",
+      "description": "Lighter shade color of the base component color.",
+      "use":
+        "Used as a lighter background color for UI elements like status bars.",
+      "hex": "#3B4252"
+    },
+    {
+      "color": "nord2",
+      "group": "polarnight",
+      "description": "Lighter shade color of the base component color.",
+      "use":
+        "Used as line highlighting in the editor. In the UI scope it may be used as selection- and hightlight color.",
+      "hex": "#434C5E"
+    },
+    {
+      "color": "nord3",
+      "group": "polarnight",
+      "description": "Lighter shade color of the base component color.",
+      "use":
+        "Used for comments, invisibles, indent- and wrap guide marker. In the UI scope used as pseudoclass color for disabled elements.",
+      "hex": "#4C566A"
+    },
+    {
+      "color": "nord4",
+      "group": "snowstorm",
+      "description": "Base component color of 'Snow Storm'",
+      "use":
+        "Main color for text, variables, constants and attributes. In the UI scope used as semi-light background depending on the theme shading design.",
+      "hex": "#D8DEE9"
+    },
+    {
+      "color": "nord5",
+      "group": "snowstorm",
+      "description": "Lighter shade color of the base component color.",
+      "use":
+        "Used as a lighter background color for UI elements like status bars. Used as semi-light background depending on the theme shading design.",
+      "hex": "#E5E9F0"
+    },
+    {
+      "color": "nord6",
+      "group": "snowstorm",
+      "description": "Lighter shade color of the base component color.",
+      "use":
+        "Used for punctuations, carets and structuring characters like curly- and square brackets. In the UI scope used as background, selection- and hightlight color depending on the theme shading design.",
+      "hex": "#ECEFF4"
+    },
+    {
+      "color": "nord7",
+      "group": "frost",
+      "description": "Bluish core color.",
+      "use": "Used for classes, types and documentation tags.",
+      "hex": "#8FBCBB"
+    },
+    {
+      "color": "nord8",
+      "group": "frost",
+      "description": "Bluish core accent color.",
+      "use":
+        "Represents the accent color of the color palette. Main color for the primary UI elements and methods/functions.",
+      "hex": "#88C0D0"
+    },
+    {
+      "color": "nord9",
+      "group": "frost",
+      "description": "Bluish core color.",
+      "use":
+        "Used for language-specific syntactic/reserved support characters and keywords, operators, tags, units and punctuations like (semi)colons,commas and braces.",
+      "hex": "#81A1C1"
+    },
+    {
+      "color": "nord10",
+      "group": "frost",
+      "description": "Bluish core color.",
+      "use":
+        "Used for markup doctypes, import/include/require statements, pre-processor statements and at-rules (`@`).",
+      "hex": "#5E81AC"
+    },
+    {
+      "color": "nord11",
+      "group": "aurora",
+      "description": "Colorful (red) component color.",
+      "use": "Used for errors, git/diff deletion and linter marker.",
+      "hex": "#BF616A"
+    },
+    {
+      "color": "nord12",
+      "group": "aurora",
+      "description": "Colorful (orange) component color.",
+      "use": "Used for annotations.",
+      "hex": "#D08770;"
+    },
+    {
+      "color": "nord13",
+      "group": "aurora",
+      "description": "Colorful (yellow) component color.",
+      "use":
+        "Used for escape characters, regular expressions and markup entities. In the UI scope used for warnings and git/diff renamings.",
+      "hex": "#EBCB8B"
+    },
+    {
+      "color": "nord14",
+      "group": "aurora",
+      "description": "Colorful (green) component color.",
+      "use":
+        "Main color for strings and attribute values. In the UI scope used for git/diff additions and success visualizations.",
+      "hex": "#A3BE8C"
+    },
+    {
+      "color": "nord15",
+      "group": "aurora",
+      "description": "Colorful (purple) component color.",
+      "use": "Used for numbers.",
+      "hex": "#B48EAD"
+    }
+  ]
+}
