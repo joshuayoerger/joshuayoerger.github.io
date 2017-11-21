@@ -21,12 +21,13 @@ Check out this great [blog post](https://www.gatsbyjs.org/blog/gatsby-v1/) if yo
   - [ ] i18n
   - [ ] Right to left text
   - [ ] Accessibility / Aria
-  - [ ] Responsive design
   - [ ] Build or integrate outside blog
   - [ ] Make better use of GraphQL to keep components and pages DRY
   - [ ] CV / Resume
   - [ ] Add a TOC to this README
 - [ ] Cosmetic
+  - [ ] Responsive design
+  - [ ] CSS Grid
   - [ ] Styled header component
   - [x] Sticky Footer
   - [ ] Styled Footer component
@@ -34,7 +35,7 @@ Check out this great [blog post](https://www.gatsbyjs.org/blog/gatsby-v1/) if yo
   - [ ] Implement [React-Headroom](https://github.com/KyleAMathews/react-headroom)
   - [x] [Glamorous](https://glamorous.rocks)
   - [ ] Icon set
-  - [ ] Color accents
+  - [ ] Color palette 
   - [ ] Subtle component animations
   - [ ] Minimal, interactive landing page animation
   - [ ] Light and dark theme buttons ("night mode")
@@ -46,7 +47,7 @@ Check out this great [blog post](https://www.gatsbyjs.org/blog/gatsby-v1/) if yo
   - [x] [Prettier](https://prettier.io)
   - [ ] [XO](https://github.com/sindresorhus/xo)?
   - [ ] React Next (v16)
-  - [ ] Add ~~proptypes~~ [flow types](https://flow.org)
+  - [ ] Add ~~proptypes~~, [flow types](https://flow.org), or [TypeScript](https://www.typescriptlang.org/)
   - [ ] Create Gatsby starter
   - [ ] Enable TLS
   - [ ] Buy proper domain name
